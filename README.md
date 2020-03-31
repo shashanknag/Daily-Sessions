@@ -1,5 +1,5 @@
 # Analytics-daily-sessions
-
+This is a test modification, brought to you by @shashanknag
 Daily sessions for the students to get started with Data Science.
 
 - [Day 1](./Day1) - Getting started ( Basic setup and What is Python )
