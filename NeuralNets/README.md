@@ -1,0 +1,1 @@
+Welcome to the content on Neural Networks. There are two notebooks in this module. The first one titled NeuralNets would look at some of the basic theory behind Neural Networks. In the second notebook, we would try to implement a shallow neural network from scratch. At the end of this notebook, we have also given a task, the solutions of which would be released shortly.
